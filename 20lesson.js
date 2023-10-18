@@ -1,13 +1,3 @@
-function showPN(limit) {
-    for (let i = 2; i < limit; i++) {
-        
-    }
-}
-       
-
-showPN(20)
-
-
 
 // let arr = [53,45,67,87,83]
 // let summ = ""
